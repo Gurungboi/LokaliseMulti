@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Lokalise",
+        "repositoryURL": "https://github.com/lokalise/lokalise-ios-framework.git",
+        "state": {
+          "branch": null,
+          "revision": "5bbc9ce346575266f96df271e4702c4a6fa57819",
+          "version": "0.10.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

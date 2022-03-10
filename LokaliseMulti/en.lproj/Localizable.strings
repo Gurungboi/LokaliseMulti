@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  LokaliseMulti
+
+  Created by Sunil on 9/3/2022.
+  
+*/
+"incentive" = "We believe we can turn localization into an element of every company’s strategy.";
+"signup_button" = "Sign up now";
+"welcome_header" = "Welcome to Lokalise!";
+"welcome" = "Welcome";
+"save_as" = "Save as...";
+"view" = "View";
+"about" = "About...";
+"about_me" = "About Me";
+"current_password" = "Current Password";
+"new_password" = "New Password";
+"confirm_password" = "Confirm Password";
+"change_password" = "Change Password";
+"password_recovery" = "Password recovery";
+"password_reset_success" = "Your password has been reset successfully!";
+"read_message" = "Read message";
+"confirm_delete" = "Are you sure you want to delete this message?";
+"search_in_messages" = "Search in messages";
+"compose_message" = "Compose Message";
+"no_date" = "No date provided";
+"quick_start" = "Quick Start";

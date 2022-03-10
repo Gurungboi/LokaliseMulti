@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  LokaliseMulti
+
+  Created by Sunil on 9/3/2022.
+  
+*/
+"incentive" = "Nous sommes convaincus que nous pouvons faire de la localisation un élément de la stratégie de chaque entreprise.";
+"signup_button" = "S'inscrire maintenant";
+"welcome_header" = "Bienvenue à Lokalise !";
+"welcome" = "Bienvenue";
+"save_as" = "Enregistrer sous...";
+"view" = "Voir";
+"about" = "A propos de...";
+"about_me" = "À propos de moi";
+"current_password" = "Mot de passe actuel";
+"new_password" = "Nouveau mot de passe";
+"confirm_password" = "Confirmer le mot de passe";
+"change_password" = "Changer le mot de passe";
+"password_recovery" = "Récupération du mot de passe";
+"password_reset_success" = "Votre mot de passe a été réinitialisé avec succès !";
+"read_message" = "Lire le message";
+"confirm_delete" = "Etes-vous sur de vouloir supprimer ce message?";
+"search_in_messages" = "Recherche dans les messages";
+"compose_message" = "Composer le message";
+"no_date" = "Pas de date fournie";
+"quick_start" = "Démarrage rapide";
